@@ -1,139 +1,247 @@
-<!--markdown tutorial-->
-<!-- ![profile](./images/me.jpg) -->
-<img src="./images/me.JPG" width="100%" title="profile image"/>
+<!-- banner image starts here  -->
+<img src="./images/banner.png" width="100%">
+<!-- banner image ends here  -->
+
+<h1> 👋 Hello, I'm Ruhul Amin </h1>
+
+A full time content creator on & web developer  
+🏠 &nbsp; Living: Khulna, Bangladesh
+
+<!-- Contact me section starts here  -->
+
+[<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.svg" />][website]
+[<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.svg" />][youtube]
+[<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.svg" />][facebook]
+[<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />][linkedin]
+<br />
+<br />
+
+<!-- Contact me section ends here  -->
+
+<!-- about-me section starts here  -->
+
+### 👨‍🏫 &nbsp; About Me
+
+<p align="justify">
+I am a passionate computer science teacher. I have been teaching programming languages, web development, and computer science-related subjects
+to millions of Bangla speaking students worldwide through my YouTube channel for the last eight years. I had the opportunity
+to teach thousands of Bachelor and Higher secondary students of different institutions in Bangladesh.
+After completing my masters in Software, Web and Cloud in August 2021, I am spending much time
+improving my web development skills. Every day I want to learn something new and share my knowledge with
+my students and others.
+</p>
+
+<br />
+<!-- about-me section ends here  -->
+
+<!-- web related skills section starts here  -->
+
+### 👨🏽‍💻 &nbsp; My Skills & Videos:
+
+#### Key Skills & Videos on Web development:
+
+[<img align="left" alt="html5" title="html playlist" width="45" hspace="5" src="./images/html5.svg" />][htmlplaylist]
+[<img align="left" alt="css3" title="css playlist" width="45" hspace="5" src="./images/css3.svg" />][cssplaylist]
+[<img align="left" alt="bootstrap" title="bootstrap playlist" width="45" hspace="5" src="./images/bootstrap.svg" />][bootstrapplaylist]
+[<img align="left" alt="javascript" title="javascript playlist" width="45" hspace="5" src="./images/js.svg" />][javascriptplaylist]
+[<img align="left" alt="json" title="json playlist" width="45" hspace="5" src="./images/json.svg" />][jsonplaylist]
+[<img align="left" alt="sass" title="sass playlist" width="45" hspace="5" src="./images/sass.svg" />][sassplaylist]
+[<img align="left" alt="jquery" title="jquery playlist" width="45" hspace="5" src="./images/jquery.svg" />][jqueryplaylist]
+[<img align="left" alt="react" title="react playlist" width="45" hspace="5" src="./images/react.svg" />][reactplaylist]
+[<img align="left" alt="node and express" title="node and express playlist" width="45" hspace="5" src="./images/node.svg" />][nodeandexpressplaylist]
+[<img align="left" alt="mongodb" title="mongodb playlist" width="45" hspace="5" src="./images/mongodb.svg" />][mongodbplaylist]
+[<img align="left" alt="mysql" title="mysql playlist" width="45" hspace="5" src="./images/mysql.svg" />][mysqlplaylist]
+[<img align="left" alt="github" title="github playlist" width="45" hspace="5" src="./images/github.svg" />][githubplaylist]
+
+<br />
+<br />
+<br />
+
+<!-- web related skills section ends here  -->
+<!-- other skills and my videos for computer science section starts here  -->
+
+#### Other Skills & Videos:
+
+[<img align="left" alt="c" title="c playlist" width="45" hspace="5" src="./images/c.svg" />][cplaylist]
+[<img align="left" alt="c plus plus" title="c++ playlist" width="45" hspace="5" src="./images/cplus.svg" />][cplusplaylist]
+[<img align="left" alt="java" title="java playlist" width="45" hspace="5" src="./images/java.svg" />][javaplaylist]
+[<img align="left" alt="android" title="android playlist" width="45" hspace="5" src="./images/android.svg" />][androidplaylist]
+[<img align="left" alt="python" title="python playlist" width="45" hspace="5" src="./images/python.svg" />][pythonplaylist]
+
+<br/>
+<br/>
 <br/>
 
-# 👋 Hello, I'm Ruhul Amin<br/>
-This is second line
+- [Artificial Intelligence (English)][aienglishplaylist]
+- [Artificial Intelligence (Bangla)][aibanglaplaylist]
+- [Java Swing][javaswingplaylist]
+- [Discrte Math][dsplaylist]
+- [Numerical Method][numericalplaylist]
+- [Theory of computation][tocplaylist]
+- [Compiler][compilerplaylist]
+- [Networking][networkingplaylist]
+- [Operating System][operatingsystemplaylist]
+- [HSC ICT][hscictplaylist]
+- [Learn for skill][learnforskillplaylist]
+- [MS Word][mswordplaylist]
+- [MS Excel][msexcelplaylist]
+- [MS powerpoint][mspowerpointplaylist]
+  <!-- other skills and my videos for computer science section ends here  -->
+
+  <br/>
+
+<!-- github stats starts here  -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anisul-islam)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anisul-islam)](https://github.com/anuraghazra/github-readme-stats) -->
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anisul-Islam&show_icons=true)
+
+<br/>
+
+<!-- github stats ends here  -->
+  <!-- latest youtube videos starts here -->
+
+#### 📹 &nbsp; My Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [Redux-toolkit bangla tutorial 11 : react-redux | fetch data](https://www.youtube.com/watch?v=ToS6afYzyhE)
+- [Finn-Bangla Football Tournament 2022 Group formation, Finland.](https://www.youtube.com/watch?v=jbrOihtqYeA)
+- [Redux-toolkit bangla tutorial 10 : react-redux | complete counter react app](https://www.youtube.com/watch?v=paY1O3oD3gg)
+- [Redux-toolkit bangla tutorial 9 : redux | fetch data using redux-thunk](https://www.youtube.com/watch?v=ppug0jE3poY)
+- [Redux-toolkit bangla tutorial 8 : redux | Middleware | redux-logger](https://www.youtube.com/watch?v=dk42KOFcRkk)
+<!-- YOUTUBE:END -->
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
+alt="Java" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=fRXL0X2WSK4" target="_blank"><img src="https://img.youtube.com/vi/fRXL0X2WSK4/3.jpg" 
+alt="Java" width="240" height="180" border="10" /></a>
+
+↪️ &nbsp; [search more videos...](https://www.youtube.com/c/ruhulacademy)
+
+<br/>
+
+<!-- latest youtube videos ends here -->
+
+<!-- other skills and my videos for computer science section starts here  -->
+
+<!-- work experience section starts here  -->
+
+### 💼 &nbsp; Employment History
+
+| Position            | Institute                                   | Duration            | Location           |
+| ------------------- | ------------------------------------------- | ------------------- | ------------------ |
+| Android developer   | M.H Soft                                    | Nov 2010 – Nov 2017 | Khulna, Bangladesh |
+| CEO & Founder       | W3 Soft Limited                             | Nov 2017 – running  | Khulna, Bangladesh |
+
+<br />
+<!-- work experience section ends here  -->
+<!-- education section starts here  -->
+
+### 👨🏻‍🎓 &nbsp; Education
+
+1. M.Sc. in Software, Web & Cloud  
+   Tampere University  
+   Tampere, Finland.
+2. B.Sc. in Computer Science & Engineering  
+   Leading University  
+   Sylhet, Bangladesh.
+3. Professional Diploma in Travel & Tourism  
+    London School of Commerce & IT  
+   London, England.
+
+<br />
+
+<!-- education section ends here  -->
+
+<!-- my languages section starts here  -->
+
+### Languages:
+
+- 🇧🇩 Bangla : Native
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
+- 🇮🇳 Hindi : Intermediate
+- 🇧🇷 Portugues : Basic
+  <br />
+
+<!-- my languages section ends here  -->
+
+<!-- my sports and game section starts here  -->
+
+### Sports / Game / Activities / Hobby:
+
+- 🏏 Cricket, ⚽ Football, 🏸 Badminton, ♟️ Chess, 🏐 Volleyball
+- 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
+- ✈️ Travelling
+
+<br />
+<!-- my sports and games section ends here  -->
+
+<!-- Honors & awards section starts here  -->
+
+<!-- ### 🏅 Honors & Awards :
+
+- 100% Scholarship in Masters
+- Silver Button from YouTube (332k subscribers currently)
+- Pubali Bank Scholarship of 40,000 BDT for outstanding result in B.Sc. -->
 
 ---
 
-# Ruhul Amin
+Thanks for going through my Portfolio.
+All rights reserved by Ruhul Amin @2021
 
-## Ruhul Amin
+---
 
-### Ruhul Amin
+<!-- my achievement section ends here  -->
 
-#### Ruhul Amin
+<!-- Links section starts here -->
 
-##### Ruhul Amin
+[website]: http://www.w3soft.com.bd/
+[youtube]: https://www.youtube.com/ruhulacademy
+[facebook]: https://www.facebook.com/ruhulamin2s/
+[linkedin]: https://www.linkedin.com/in/ruhulamin2s/
+[github]: https://github.com/ruhulamin2s/
 
-###### Ruhul Amin
+<!-- web related playlists starts here  -->
+<!--
+[htmlplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oHBr5dsumGwjUxByN5Lnw3
+[cssplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3qjCBXjTmv7Xeh8MDUUVJDO
+[bootstrapplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oC_wmWEZa2xWxJauIRQ9kG
+[javascriptplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3qzryglMjcyEktz4q7ySunX
+[jsonplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3rWYYIcCykektDcb_1IPDz4
+[sassplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3qOvGYtFb3Z7KVMLrijYdqO
+[jqueryplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3pSJG9Hwjnykd0hLGEsW4DB
+[reactplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3rGtitufynBKMy5gAFpa1y8
+[nodeandexpressplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3r6ZGeyFnSv_YDxVON2P85m
+[mongodbplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3r6ZGeyFnSv_YDxVON2P85m
+[mysqlplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3qLcx9DvVDWmNJ7riPvxzCD
+[githubplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3r6ZGeyFnSv_YDxVON2P85m
 
-<p>This is Ruhul Amin. I am 31 years old. I just finished my masters at Tampere University</p>
+ web related playlists ends here  -->
 
-<br/>
+<!-- cse related playlists starts here  -->
+<!-- 
+[cplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3pCMBZcul1fta6UivHDbXvz
+[cplusplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL
+[javaplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa
+[androidplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3p9xzYLFGdfYliIRBLVDRV5
+[pythonplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3rz5XqMsTk41_j15_6682BN
+[aienglishplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3rRVV7oeML93OVAxqQ-CvzV
+[aibanglaplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oFAaeJxjDWA8kEbMutzV6V
+[javaswingplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3rAHKr6IteF5kdgN6BorH9l
+[numericalplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oKFrSOo4Kwns1-vTZmKQ7z
+[operatingsystemplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3r_SuT0AnOEoElfQQPgkBIq
+[dsplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3rYy9DVhk28m8enSo8xxiZ3
+[tocplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3qw5pu16QgnKNj91Rnjoyd0
+[compilerplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oWTwTgILA7v9oysoDgkJDg
+[networkingplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3p5OI88r3ob-otmKqIm_DbS
+[hscictplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3o8Y-CKhmyodbfHAc9VSVOv
+[learnforskillplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3qyJVIaeHSqiRWOyO6HW023
+[mswordplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3p21lsneT3cW4CJL4Bd1lJ2
+[mspowerpointplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3pBnrckqfJ2zn7FL6Q_LNcm
+[msexcelplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3ohKCQMR7aopneByGX05iSK
 
-### italic text
+cse related playlists ends here  -->
 
-_This is an italic text_
-
-<br/>
-
-### bold text
-
-**This is an italic text**
-
-<br/>
-
-### Strikethorugh
-
-~~this is~~
-
-<br/>
-
-### single line code
-
-`This is inline`  
-`<h1> Bangladesh </h1>`
-
-<br/>
-
-### Multiple line code
-
-```
-  <html>
-  <head> </head>
-  <body> </body>
-  </html>
-```
-
-```html
-<html>
-  <head> </head>
-  <body></body>
-</html>
-```
-
-```css
-head {
-  background-color: green;
-}
-```
-
-```javascript
-console.log("hello");
-```
-
-<br/>
-
-### Ordered List
-
-1. Item1
-2. Item2
-   1. Item1.1
-   2. Item1.2
-3. Item3
-
-<br/>
-
-### Unordered List
-
-- item1
-  - item1.1
-  - item1.2
-- item2
-- item3
-
-<br/>
-
-### Task List
-
-- [x] Task1
-- [x] Task1
-- [] Task1
-
-<br/>
-
-### automatic link
-
-http://www.w3soft.com.bhd
-
-### disable link
-
-`http://www.w3soft.com.bhd
-
-### markdown link sytax
-
-[studywithanis](http://www.w3soft.com.bhd)
-
-### markdown link sytax
-
-[studywithanis][websitelink]
-[facebook][facebooklink]
-
-<br/>
-
-### table sytax
-
-| Name         | Email                  |
-| ------------ | ---------------------- |
-| Ruhul Amin | Text is here           |
-| Ruhul Amin | w3sotlimited@gmail.com|
-| Ruhul Amin | Text is here           |
-
-<!-- all link is here -->
-
-[websitelink]: http://www.w3soft.com.bhd
-[facebooklink]: https://www.facebook.com/ruhulamin2s
-
+<!-- Links section ends here -->
