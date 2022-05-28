@@ -1,6 +1,6 @@
 <!--markdown tutorial-->
 <!-- ![profile](./images/me.jpg) -->
-<img src="./images/me.JPG" width="400" title="profile image"/>
+<img src="./images/me.JPG" width="100%" title="profile image"/>
 <br/>
 
 Ruhul Amin<br/>
