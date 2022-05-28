@@ -3,7 +3,7 @@
 <img src="./images/me.JPG" width="100%" title="profile image"/>
 <br/>
 
-# 👋 Hello, I'm Anisul I<br/>
+# 👋 Hello, I'm Ruhul Amin<br/>
 This is second line
 
 ---
