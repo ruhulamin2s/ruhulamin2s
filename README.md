@@ -45,14 +45,6 @@ my students and others.
 [<img align="left" alt="bootstrap" title="bootstrap playlist" width="45" hspace="5" src="./images/bootstrap.svg" />][bootstrapplaylist]
 [<img align="left" alt="javascript" title="javascript playlist" width="45" hspace="5" src="./images/js.svg" />][javascriptplaylist]
 [<img align="left" alt="json" title="json playlist" width="45" hspace="5" src="./images/json.svg" />][jsonplaylist]
-[<img align="left" alt="sass" title="sass playlist" width="45" hspace="5" src="./images/sass.svg" />][sassplaylist]
-[<img align="left" alt="jquery" title="jquery playlist" width="45" hspace="5" src="./images/jquery.svg" />][jqueryplaylist]
-[<img align="left" alt="react" title="react playlist" width="45" hspace="5" src="./images/react.svg" />][reactplaylist]
-[<img align="left" alt="node and express" title="node and express playlist" width="45" hspace="5" src="./images/node.svg" />][nodeandexpressplaylist]
-[<img align="left" alt="mongodb" title="mongodb playlist" width="45" hspace="5" src="./images/mongodb.svg" />][mongodbplaylist]
-[<img align="left" alt="mysql" title="mysql playlist" width="45" hspace="5" src="./images/mysql.svg" />][mysqlplaylist]
-[<img align="left" alt="github" title="github playlist" width="45" hspace="5" src="./images/github.svg" />][githubplaylist]
-
 <br />
 <br />
 <br />
