@@ -34,22 +34,6 @@ my students and others.
 <br />
 <!-- about-me section ends here  -->
 
-<!-- web related skills section starts here  -->
-
-### 👨🏽‍💻 &nbsp; My Skills & Videos:
-
-#### Key Skills & Videos on Web development:
-
-[<img align="left" alt="html5" title="html playlist" width="45" hspace="5" src="./images/html5.svg" />][htmlplaylist]
-[<img align="left" alt="css3" title="css playlist" width="45" hspace="5" src="./images/css3.svg" />][cssplaylist]
-[<img align="left" alt="bootstrap" title="bootstrap playlist" width="45" hspace="5" src="./images/bootstrap.svg" />][bootstrapplaylist]
-[<img align="left" alt="javascript" title="javascript playlist" width="45" hspace="5" src="./images/js.svg" />][javascriptplaylist]
-[<img align="left" alt="json" title="json playlist" width="45" hspace="5" src="./images/json.svg" />][jsonplaylist]
-<br />
-<br />
-<br />
-
-
 <!-- github stats starts here  -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulamin2s)](https://github.com/anuraghazra/github-readme-stats)
