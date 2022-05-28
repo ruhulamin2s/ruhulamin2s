@@ -1,4 +1,7 @@
 <!--markdown tutorial-->
+<!-- ![profile](./images/me.jpg) -->
+<img src="./images/me.JPG" width="400" title="profile image"/>
+<br/>
 
 Ruhul Amin<br/>
 This is second line
@@ -118,14 +121,6 @@ http://www.w3soft.com.bhd
 
 [studywithanis][websitelink]
 [facebook][facebooklink]
-
-<br/>
-
-### image sytax
-
-<!-- ![profile](./images/me.jpg) -->
-<img src="./images/me.JPG" width="400" title="profile image"/>
-😊
 
 <br/>
 
