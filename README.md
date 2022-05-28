@@ -121,13 +121,7 @@ http://www.w3soft.com.bhd
 
 <br/>
 
-### image sytax
 
-<!-- ![profile](./images/me.jpg) -->
-<img src="./images/me.JPG" width="400" title="profile image"/>
-😊
-
-<br/>
 
 ### table sytax
 
