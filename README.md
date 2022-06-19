@@ -55,7 +55,6 @@ my students and others.
 
 | Position            | Institute                                   | Duration            | Location           |
 | ------------------- | ------------------------------------------- | ------------------- | ------------------ |
-| Android developer   | M.H Soft                                    | Nov 2010 – Nov 2017 | Khulna, Bangladesh |
 | CEO & Founder       | W3 Soft Limited                             | Nov 2017 – running  | Khulna, Bangladesh |
 
 <br />
