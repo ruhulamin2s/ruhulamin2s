@@ -1,5 +1,5 @@
 <!-- banner image starts here  -->
-<img src="./images/ruhul.jpg" width="100%">
+<img src="./images/321753265_1514906609014787_8610605102966691541_n.jpg" width="100%">
 <!-- banner image ends here  -->
 
 <h1> 👋 Hello, I'm Ruhul Amin </h1>
