@@ -71,8 +71,8 @@ my students and others.
 
 <!-- Links section starts here -->
 
-[website]: http://www.w3soft.com.bd/
-[youtube]: https://www.youtube.com/ruhulacademy
+[website]: http://www.w3softbd.com/
+[youtube]: https://www.youtube.com/w3soft
 [facebook]: https://www.facebook.com/ruhulamin2s/
 [linkedin]: https://www.linkedin.com/in/ruhulamin2s/
 [github]: https://github.com/ruhulamin2s/
